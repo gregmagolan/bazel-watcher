@@ -1,0 +1,24 @@
+{
+	"name": "@bazel/ibazel",
+	"version": "v0.3.0-dirty",
+	"description": "node distribution of ibazel",
+	"bin": {
+		"ibazel": "index.js"
+	},
+	"contributors": [
+		"Alex Eagle <alexeagle@google.com>",
+		"Andrew Z Allen <achew@google.com>",
+		"Doug Koch <doug@dougkoch.me>",
+		"Greg Magolan <gmagolan@gmail.com>",
+		"Jeff Hodges <jeff@somethingsimilar.com>",
+		"Martin Probst <martinprobst@google.com>",
+		"Matt Moore <mattmoor@google.com>",
+		"mrmeku <mrmeku@gmail.com>",
+		"Steren Giannini <steren.giannini@gmail.com>",
+		"Vladimir Moskva <vladmos@users.noreply.github.com>"
+	],
+	"license": "Apache-2.0",
+	"publish_config": {
+		"access": "public"
+	}
+}
